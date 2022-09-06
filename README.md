@@ -2,4 +2,4 @@
 
 
 
-I am trying to understand git
+I am trying to understand git Elmira Saliamova
